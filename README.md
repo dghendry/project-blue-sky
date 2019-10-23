@@ -8,3 +8,5 @@ David
 Bill 
 Jill 
 Mary 
+=======
+See our [project proposal](https://github.com/dghendry/project-blue-sky/wiki)
